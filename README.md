@@ -12,3 +12,8 @@ This project is a simple Android application developed in Kotlin using Jetpack C
 * SQL Lite
 * Android SDK minimum: API level 24 or above
 * Gradle: 8.6
+
+
+### Download the apk
+
+https://github.com/TThesigan/Authentication-App-with-Jetpack-Compose-SQLite/releases/download/v1.0.0/app-debug.apk
